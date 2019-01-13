@@ -1,2 +1,0 @@
-# synflood
-READ THE .README SKID

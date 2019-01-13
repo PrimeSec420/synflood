@@ -1,7 +1,7 @@
 
 /*
-	Created @ 1.13.2018
-	Copyright (C) 2018 Prime Security <http://www.github.com/PrimeSec420>
+	Created @ 1.13.2019
+	Copyright (C) 2019 Prime Security <http://www.github.com/PrimeSec420>
 	
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
